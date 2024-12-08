@@ -23,3 +23,14 @@ This is a powerful and feature-rich DDoS attack tool designed for **educational 
    ```bash
    git clone https://github.com/AFREDI404/advance_ddos_dsh.git
    cd advance_ddos_dsh
+
+   # Advanced DDoS Tool by Afredi Chowdhury Ahad
+
+## New Features Added
+- **Logging System**: Track the status and errors of the DDoS attack.
+- **Custom Payloads**: Add custom headers and request bodies for advanced HTTP attacks.
+- **Rate Limiting Avoidance**: Adding delays between requests to prevent rate limiting.
+- **Load Balancing**: Distribute attacks across multiple servers for better performance.
+
+## Usage
+1. Clone the repository:
