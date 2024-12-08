@@ -1,0 +1,8 @@
+# Advanced LDAP Amplification Payloads
+SearchRequest(DSA)
+AbandonRequest
+BindRequest
+UnbindRequest
+ExtendedRequest
+ModifyRequest
+CompareRequest
